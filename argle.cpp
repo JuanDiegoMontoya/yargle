@@ -1,7 +1,7 @@
 /******************************************************************************/
 /*!
 \file   Argle.cpp
-\author Jake Ryan
+\author JuanDiego Montoya
 \date   4/13/2018
 \brief  
     Program that converts a user-inputted string to Argle-speak.
